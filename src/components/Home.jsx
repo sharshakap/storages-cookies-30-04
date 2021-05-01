@@ -185,7 +185,7 @@ const Home = () => {
             Vaciar
           </button>
 
-          <h2 className="mt-5">Cookies</h2>
+          <h2 className="mt-5">Cookies (30seg)</h2>
           <button
             type="button"
             disabled={activarBoton()}
